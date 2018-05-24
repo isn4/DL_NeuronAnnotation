@@ -1,6 +1,6 @@
 # Original Code by Marko Jocić found here: https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
-# All changes and updates made by Kristi Bushman and Ishtar Nyawira
+# Any changes and updates made by Kristi Bushman and Ishtar Nyawira
 
 # NOTE: 35,000 images take roughly 11 hours to complete training
 

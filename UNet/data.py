@@ -1,6 +1,6 @@
 # Original Code by Marko Jocić found here: https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
-# All changes and updates made by Kristi Bushman and Ishtar Nyawira
+# Any changes and updates made by Kristi Bushman and Ishtar Nyawira
 
 from __future__ import print_function
 
